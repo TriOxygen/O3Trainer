@@ -1,0 +1,10 @@
+## Interface: 60000
+## DefaultState: Enabled
+## Title: |cFF007FFFO3|r Trainer
+## Author: Oz
+## Version: 0.1
+## Notes: O3 Trainer
+## RequiredDeps: O3
+
+TrainerWindow.lua
+Trainer.lua
